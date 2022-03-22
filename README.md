@@ -1,2 +1,2 @@
 # Fabrica-de-software
-This repository contains all my actives during the Software Factory in Unipê University.
+This repository contains all my activities during the Software Factory in Unipê University.
